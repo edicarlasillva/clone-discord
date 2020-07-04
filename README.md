@@ -2,7 +2,7 @@
     <img alt="Discord" title="Discord" src="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b7/Discord_logo_svg.svg/1200px-Discord_logo_svg.svg.png" />
 </h1>
 
-# Discord
+# 🎮 Discord
 
 Não importa se você faz parte de um clube escolar, uma comunidade artística mundial ou só amigos querendo ficar de boa, o Discord torna mais fácil conversar todo dia e se ver com mais frequência.
 
